@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(177, 92, 13);
+    color: white;
+}
+#section1{
+    background-color: rgb(9, 8, 49);
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    margin: auto;
+    border-radius: 10%;
+}
+footer{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 25px;
+    color: rgb(209, 212, 31);
+}
+header h1{
+    text-align: center;
+    color: rgb(209, 212, 31);
+}

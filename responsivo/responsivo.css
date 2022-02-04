@@ -1,0 +1,14 @@
+/* Vamos tratar da parte de responsividade do site */
+
+@media screen and (max-width: 700px){
+    .header-titulo{
+        display: flex;
+        flex-direction: column;
+    }
+    #section1{
+        width: 300px;
+    }
+    #section1 p{
+        margin-left: 30px;
+    }
+}
